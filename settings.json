@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "BETAMANGECAR.aternos.me:31551",
+    "port": 31551,
     "version": "",
     "try-creative": false
   },
